@@ -1,0 +1,14 @@
+## Interface: 11200
+## Title: |cff00ff00[PVE]DBM团队工具
+## Notes: DBM团队工具。|n插件目录：DBM_RaidTools
+## RequiredDeps: DBM_API 
+## LoadOnDemand: 0
+## DefaultState: enabled
+## SavedVariables: DMRT_Save
+## Author: Nitram
+## Version: 0.1
+## URL: http://www.deadlyminds.net
+localization.en.lua
+localization.tw.lua
+localization.cn.lua
+RaidTools.xml

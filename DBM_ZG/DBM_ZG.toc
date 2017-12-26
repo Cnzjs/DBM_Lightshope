@@ -1,0 +1,23 @@
+## Interface: 11200
+## Title: |cff00ff00[PVE]DBM祖尔格拉布
+## Notes: DBM祖尔格拉布模块。|n插件目录：DBM_ZG
+## Author: Tandanu and Nitram
+## LoadOnDemand: 1
+## RequiredDeps: DBM_API
+localization.en.lua
+localization.de.lua
+localization.fr.lua
+localization.tw.lua
+localization.cn.lua
+Jeklik.lua
+Venoxis.lua
+Marli.lua
+Mandokir.lua
+Thekal.lua
+Arlokk.lua
+Hakkar.lua
+Jindo.lua
+Bosses.lua
+GurubashiBerserker.lua
+Grilek.lua
+Renataki.lua

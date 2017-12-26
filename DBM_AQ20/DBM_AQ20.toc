@@ -1,0 +1,19 @@
+## Interface: 11200
+## Title: |cff00ff00[PVE]DBM安其拉废墟
+## Notes: DBM安其拉废墟模块。|n插件目录：DBM_AQ20
+## Author: Tandanu and Nitram
+## LoadOnDemand: 1
+## RequiredDeps: DBM_API
+localization.en.lua
+localization.de.lua
+localization.fr.lua
+localization.tw.lua
+localization.cn.lua
+Kurinaxx.lua
+Rajaxx.lua
+Moam.lua
+Buru.lua
+Ayamiss.lua
+Ossirian.lua
+AnubisathGuardians.lua
+Bosses.lua

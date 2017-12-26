@@ -1,0 +1,16 @@
+## Interface: 11200
+## Title: |cff00ff00[PVE]DBM户外首领
+## Notes: DBM户外首领模块。|n插件目录：DBM_Outdoor
+## Author: Tandanu and Nitram
+## LoadOnDemand: 1
+## RequiredDeps: DBM_API
+localization.en.lua
+localization.de.lua
+localization.fr.lua
+localization.tw.lua
+localization.cn.lua
+Kazzak.lua
+Onyxia.lua
+OutdoorDragons.lua
+Azuregos.lua
+Bosses.lua

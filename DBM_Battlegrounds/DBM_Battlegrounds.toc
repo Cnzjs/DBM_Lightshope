@@ -1,0 +1,15 @@
+## Interface: 11200
+## Title: |cff00ff00[PVE]DBM战场
+## Notes: DBM战场模块。|n插件目录：DBM_Battlegrounds
+## Author: Tandanu and Nitram
+## LoadOnDemand: 1
+## RequiredDeps: DBM_API
+localization.en.lua
+localization.de.lua
+localization.tw.lua
+localization.cn.lua
+Battlegrounds.lua
+Arathi.lua
+Alterac.lua
+Warsong.lua
+EyeOfTheStorm.lua

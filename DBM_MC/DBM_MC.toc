@@ -1,0 +1,19 @@
+## Interface: 11200
+## Title: |cff00ff00[PVE]DBM熔火之心
+## Notes: DBM熔火之心模块。|n插件目录：DBM_MC
+## Author: Tandanu and Nitram
+## LoadOnDemand: 1
+## RequiredDeps: DBM_API
+localization.en.lua
+localization.de.lua
+localization.fr.lua
+localization.tw.lua
+localization.cn.lua
+Lucifron.lua
+Magmadar.lua
+Gehennas.lua
+Geddon.lua
+Shazzrah.lua
+Majordomo.lua
+Ragnaros.lua
+Bosses.lua

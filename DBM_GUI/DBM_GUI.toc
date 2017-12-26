@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: |cff00ff00[PVE]DBM图形设置界面
+## Notes: DBM图形设置界面。|n插件目录：DBM_GUI
+## RequiredDeps: DBM_API
+## LoadOnDemand: 1
+## DefaultState: enabled
+## Author: Nitram
+## Version: 1.25
+## URL: http://www.deadlyminds.net
+GUI.xml

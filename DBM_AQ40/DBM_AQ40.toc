@@ -1,0 +1,22 @@
+## Interface: 11200
+## Title: |cff00ff00[PVE]DBM安其拉神庙
+## Notes: DBM安其拉神庙模块。|n插件目录：DBM_AQ40
+## Author: Tandanu and Nitram
+## LoadOnDemand: 1
+## RequiredDeps: DBM_API
+localization.en.lua
+localization.de.lua
+localization.tw.lua
+localization.cn.lua
+localization.fr.lua
+Skeram.lua
+ThreeBugs.lua
+Sartura.lua
+Fankriss.lua
+Viscidus.lua
+Huhuran.lua
+Defender.lua
+TwinEmps.lua
+CThun.lua
+Ouro.lua
+Bosses.lua

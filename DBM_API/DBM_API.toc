@@ -1,0 +1,19 @@
+## Interface: 11200
+## Title: |cff00ff00[PVE]DBM设置界面
+## Notes: DBM设置界面接口。|n插件目录：DBM_API
+## SavedVariables: DBM_SavedVars, DBMInfoFramePositions
+## LoadOnDemand: 0
+## DefaultState: enabled
+## Author: Tandanu and Nitram
+## URL: http://www.deadlyminds.net
+localization.en.lua
+localization.de.lua
+localization.fr.lua
+localization.cn.lua
+localization.tw.lua
+Patchnotes.lua
+API.lua
+API.xml
+StatusBars.lua
+StatusBars.xml
+InfoFrame.lua

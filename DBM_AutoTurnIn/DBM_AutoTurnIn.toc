@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: |cff00ff00[PVE]DBM重复任务自动交
+## Notes: DBM重复任务自动交模块。|n插件目录：DBM_AutoTurnIn
+## Author: Nitram, DiabloHu
+## RequiredDeps: DBM_API
+localization.en.lua
+localization.de.lua
+localization.tw.lua
+localization.cn.lua
+Runecloth.lua
+Timbermaw.lua

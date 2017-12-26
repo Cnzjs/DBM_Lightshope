@@ -1,0 +1,29 @@
+## Interface: 11200
+## Title: |cff00ff00[PVE]DBM纳克萨玛斯
+## Notes: DBM纳克萨玛斯模块。|n插件目录：DBM_NAXX
+## Author: Tandanu and Nitram
+## LoadOnDemand: 1
+## RequiredDeps: DBM_API
+localization.en.lua
+localization.de.lua
+localization.fr.lua
+localization.cn.lua
+localization.tw.lua
+Spider\AnubRekhan.lua
+Spider\GrandWidowFaerlina.lua
+Spider\Maexxna.lua
+Ghoul\Noth.lua
+Ghoul\Heigan.lua
+Ghoul\Loatheb.xml
+Ghoul\Loatheb.lua
+Deathknight\Razuvious.lua
+Deathknight\Gothik.lua
+Deathknight\FourHorsemen.lua
+Abomination\Patchwerk.lua
+Abomination\Grobbulus.lua
+Abomination\Gluth.lua
+Abomination\Thaddius.xml
+Abomination\Thaddius.lua
+Frostwyrm\Sapphiron.lua
+Frostwyrm\Kelthuzad.lua
+Bosses.lua
